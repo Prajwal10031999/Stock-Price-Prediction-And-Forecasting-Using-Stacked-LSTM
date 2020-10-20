@@ -6,5 +6,8 @@ A Machine Learning Model for Stock Market Prediction. Stock market prediction is
 
 The API Key can be generated from : https://www.tiingo.com/
 
+The output can be visualized as follows: 
+![Screenshot](prediction.png)
+
 
 
